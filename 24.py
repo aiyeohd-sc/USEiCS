@@ -12,4 +12,5 @@ for i in range(len(s)):
             n_st = i
         if s[i] in '02468':
             res = max(res, i-j+1)
+
 print(res)
