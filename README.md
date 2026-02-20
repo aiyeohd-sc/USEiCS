@@ -1,2 +1,11 @@
 # USEiCS
-my notes for solution unified state exam tasks in computer science
+Мои решения для задач егэ по информатике(unified state exam tasks in computer science - USEiCS)
+
+# Обозначения
+- Номер в начале кода - номер на КЕГЭ
+- Строка минусов - новое задание
+- Название файла - номер задания в ЕГЭ
+
+# Pull requests
+- Для принятия pull request в начале должен быть номер задания на КЕГЭ, иначе - полное задание или указание на ресурс
+- Pull request должен быть в файл подходящего задания
