@@ -1,5 +1,5 @@
 # USEiCS
-Мои решения для задач егэ по информатике (unified state exam in computer science - USEiCS)
+Решения, шаблоны, формулы для задач егэ по информатике (unified state exam in computer science - USEiCS)
 
 # Обозначения
 - Номер в начале кода - номер на КЕГЭ
